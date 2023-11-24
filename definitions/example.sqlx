@@ -10,3 +10,5 @@ FROM
 WHERE
   id BETWEEN 50
   AND 90
+ORDER BY
+  id
