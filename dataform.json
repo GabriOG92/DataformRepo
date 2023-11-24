@@ -1,5 +1,5 @@
 {
-  "defaultSchema": "Dataset1",
+  "defaultSchema": "DataformNew",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
   "defaultDatabase": "pruebas-405710",
