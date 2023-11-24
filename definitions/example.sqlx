@@ -1,0 +1,12 @@
+config {
+    type: "view",
+    name: "example",
+}
+
+SELECT
+  *
+FROM
+  `pruebas-405710.Dataset1.ELEMENTS`
+WHERE
+  id BETWEEN 50
+  AND 90

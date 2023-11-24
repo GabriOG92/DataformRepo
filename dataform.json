@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "Dataset1",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "pruebas-405710",
+  "defaultLocation": "US"
+}
+    
