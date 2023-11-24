@@ -1,6 +1,7 @@
 config {
     type: "view",
     name: "example",
+    tags: "ETLExample"
 }
 
 SELECT
